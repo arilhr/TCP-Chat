@@ -15,3 +15,6 @@ Program kirim pesan antar beberapa client. Program ini dalam mengirim pesan mele
 # Flowchart Server
 
 ![TCP Chat](https://user-images.githubusercontent.com/49566412/124703650-d9bc3280-df1c-11eb-8c58-26f548af2189.png)
+
+# Flowchart Client
+![TCP Chat Client (1)](https://user-images.githubusercontent.com/49566412/124783635-698acc80-df6f-11eb-9819-700d6f093423.png)
