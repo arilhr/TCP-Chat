@@ -2,6 +2,9 @@
  
 Program kirim pesan antar beberapa client. Program ini dalam mengirim pesan melewati server dan client yang dihubungkan dengan protokol TCP.
 
+![ss](https://user-images.githubusercontent.com/49566412/124784126-d43c0800-df6f-11eb-8720-1c05628eb7dd.png)
+
+
 # How to use
 
 1. Download source code program
