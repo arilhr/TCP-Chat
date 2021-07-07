@@ -1,4 +1,4 @@
-# TCP Chat
+# TCP Chat Multiclient
  
 Program kirim pesan antar beberapa client. Program ini dalam mengirim pesan melewati server dan client yang dihubungkan dengan protokol TCP.
 
