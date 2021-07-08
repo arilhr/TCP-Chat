@@ -17,5 +17,6 @@ This is a program for chatting with a multiple client/user. In this program to s
 
 # Flowchart Program
 
-![TCP Chat (1)](https://user-images.githubusercontent.com/49566412/124859237-bb683c80-dfd9-11eb-8c11-fd4f89f8488e.png)
+![TCP Chat (2)](https://user-images.githubusercontent.com/49566412/124958970-ef2c7c00-e044-11eb-823b-34fea57143a9.png)
+
 
