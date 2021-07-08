@@ -15,9 +15,7 @@ Program kirim pesan antar beberapa client. Program ini dalam mengirim pesan mele
 6. Masukkan nama, ip, dan port. Lalu hubungkan ke server dengan menekan tombol connect. Client akan terhubung.
 7. Coba kirimkan sebuah pesan melalui client.
 
-# Flowchart Server
+# Flowchart Program
 
-![TCP Chat](https://user-images.githubusercontent.com/49566412/124703650-d9bc3280-df1c-11eb-8c58-26f548af2189.png)
+![TCP Chat (1)](https://user-images.githubusercontent.com/49566412/124859237-bb683c80-dfd9-11eb-8c11-fd4f89f8488e.png)
 
-# Flowchart Client
-![TCP Chat Client (1)](https://user-images.githubusercontent.com/49566412/124783635-698acc80-df6f-11eb-9819-700d6f093423.png)
