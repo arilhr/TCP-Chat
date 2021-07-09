@@ -10,7 +10,7 @@ This is a program for chatting with a multiple client/user. In this program to s
 1. Download source code
 2. In code Server.cs, change the destination location for save the chat history file in the variable filePath.
 3. Compile client and server source code.
-4. Run server first, server will automaticaly running and connected.
+4. Run the server program first, server will automaticaly running and connected.
 5. Run the client program.
 6. Enter username, ip, and port. Then click Connect button to connecting the client.
 7. Try send chat from that client.  
